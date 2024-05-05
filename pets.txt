@@ -3,3 +3,5 @@ Purple
 Scout
 Bucket
 Rocket
+Monty
+Mocha
